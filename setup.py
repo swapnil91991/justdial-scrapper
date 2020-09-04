@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'py_justdial_scrapper',         # How you named your package folder (MyLib)
   packages = ['py_justdial_scrapper'],   # Chose the same as "name"
-  version = '0.3',      # Start with a small number and increase it with every change you make
+  version = '0.4',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A python package to scrape data from JustDial.com',   # Give a short description about your library
   long_description = open('README.md', 'r').read(),
