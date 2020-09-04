@@ -5,6 +5,7 @@ setup(
   version = '0.3',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A python package to scrape data from JustDial.com',   # Give a short description about your library
+  long_description = open('README.md', 'r').read(),
   author = 'Manjit Pardeshi',                   # Type in your name
   author_email = 'manjitpardeshi2003@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Manjit2003/justdial-scrapper',   # Provide either the link to your github or to your website
