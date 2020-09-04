@@ -98,5 +98,5 @@ class JDScrapper:
             
         return data
 
-t = JDScrapper()
-t.scrape( 'Hardware Shops', 'Nashik')
+#t = JDScrapper()
+#t.scrape( 'Hardware Shops', 'Nashik')
